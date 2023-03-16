@@ -7,6 +7,7 @@ You'll also need to install the following packages, if you don't already have th
 ```
 install.packages("tidyverse")
 install.packages("ggridges")
+install.packages("ggtext")
 install.packages("cowplot")
 install.packages("showtext")
 ```
